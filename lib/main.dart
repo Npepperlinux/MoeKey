@@ -7,11 +7,11 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:logger/logger.dart';
 import 'package:media_kit/media_kit.dart';
-import 'package:misskey/pages/home/home_page.dart';
-import 'package:misskey/pages/login/login_page.dart';
-import 'package:misskey/state/server.dart';
-import 'package:misskey/state/themes.dart';
-import 'package:misskey/widgets/loading_weight.dart';
+import 'package:moekey/pages/home/home_page.dart';
+import 'package:moekey/pages/login/login_page.dart';
+import 'package:moekey/state/server.dart';
+import 'package:moekey/state/themes.dart';
+import 'package:moekey/widgets/loading_weight.dart';
 
 import 'generated/l10n.dart';
 import 'networks/websocket.dart';

@@ -1,8 +1,8 @@
 import 'dart:async';
 
-import 'package:misskey/models/note.dart';
-import 'package:misskey/networks/timeline.dart';
-import 'package:misskey/networks/websocket.dart';
+import 'package:moekey/models/note.dart';
+import 'package:moekey/networks/timeline.dart';
+import 'package:moekey/networks/websocket.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
 import '../main.dart';
